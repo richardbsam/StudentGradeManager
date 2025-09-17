@@ -1,7 +1,7 @@
 # Student Grade Management System
 
 ## Overview
-This project is a simple **console-based application** developed in C++ to manage student grades.  
+This project is a simple **console-based application** developed in C++ that allows teachers to manage students’ grades.  
 The goal is to simulate a real-world use case where teachers can efficiently record and track students’ performance.  
 
 The application allows the user to:
