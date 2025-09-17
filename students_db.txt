@@ -1,0 +1,4 @@
+STU|2025|Richrard Sam||WDD325:98,cse310:100
+STU|2023|Jovani Richard||CSE119:99,English:99,FSE228:89,Mathemetics:100,cse119:100
+STU|2211|Anne Richard||Biology:98,English:97,Technology:100
+STU|2024|Nyaknno Amos||Econs120:99,PHB220:100
