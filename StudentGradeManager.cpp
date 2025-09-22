@@ -126,6 +126,7 @@ public:
     GraduateStudent(const string& name_, int id_, const string& thesis_)
         : Student(name_, id_), thesisTitle(thesis_) {}
 
+        
     virtual void displayInfo() const override {
         cout << "ID: " << id << " | Name: " << name << " (Graduate Student)";
         if (!grades.empty()) {
