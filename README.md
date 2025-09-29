@@ -18,7 +18,7 @@ This project helped me strengthen my understanding of C++ fundamentals such as:
 - Loops and conditional logic
 - Data persistence  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/OVT9GHvTTBQ)
 
 ---
 
