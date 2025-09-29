@@ -5,3 +5,4 @@ STU|2024|Nyaknno Amos||Econs120:99,PCH110:30,PHB220:100
 STU|2010|Ima-Obong Monday||Chm:19,Econs:24,Eng:2,Maths:20,Phy:6
 STU|2020|Henry Nwala||Agric:5,Econs:7,Eng:10,Govt:5,Lit in Eng:4,Mathx:2
 STU|2011|Osie Bare||Eng:66,ISO:99.9,Marine:21,Mths:33
+STU|2022|James Chinda AKA Apasino||Eng:100
